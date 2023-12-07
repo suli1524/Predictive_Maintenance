@@ -1,7 +1,7 @@
 # Predictive Maintenance with Milling Machine Dataset
 
 ## Overview
-
+In many industrial settings, the reliability and optimal performance of machines are critical to maintaining smooth operation. The challenge lies in addressing unexpected machine failures and unplanned downtime, which leads to financial losses and operation disruption.tThe objective is to develop a predictive maintenance model to anticipate and address potential machine failures before they occur.  Creating a model which aims to leverage historical data to create a maintenance schedule to improve operation efficiency.
 This repository contains a synthetic dataset modeling a milling machine's operation, designed for predictive maintenance applications. The dataset comprises 10,000 data points, each represented by 14 features. These features include information about product quality, temperature, rotational speed, torque, tool wear, and machine failures.
 
 ## Dataset Description
@@ -41,8 +41,9 @@ This repository contains a synthetic dataset modeling a milling machine's operat
 
 7. **Citation**: original publication: S. Matzka, "Explainable Artificial Intelligence for Predictive Maintenance Applications," 2020 Third International Conference on Artificial Intelligence for Industries (AI4I), doi: 10.1109/AI4I49448.2020.00023.
 
-## Credits
+## Conclusion
 
-- **Dataset**: Original dataset with additional information and proper attribution. At least one unauthorized version on Kaggle; please attribute the original author.
-- **Image**: Milling process image by Daniel Smyth @ Pexels [Link](https://www.pexels.com/de-de/foto/industrie-herstellung-maschine-werkzeug-10406128/)
+Using the Random Forest model, we are able to create a predictive maintenance model which correctly identify a machine failure with a 97.77% accuracy.The recommendations to better improve the accuracy, is to get more data since were limit to a synthetic dataset, add more features such as inspection/ maintenance schedule, runtime data, lifetime of machine counterparts.Following  those recommendations we would be able to automate the data, allowing us to create a app that would give out alerts for when preventative maintenance should be done.
+
+  
 
