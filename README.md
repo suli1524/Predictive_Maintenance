@@ -34,7 +34,7 @@ This repository contains a synthetic dataset modeling a milling machine's operat
 4. **Model Training**: Use machine learning algorithms to train a predictive maintenance model.
 5. **Evaluation**: Assess the model's performance using appropriate metrics.
 6. **Machine Learning Models and Results**:
-   - Model 1: [Model Name 1]
+   - Model 1: []
      - Accuracy: [Accuracy]
      - Precision: [Precision]
      - Recall: [Recall]
