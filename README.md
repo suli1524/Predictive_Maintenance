@@ -34,21 +34,15 @@ This repository contains a synthetic dataset modeling a milling machine's operat
 4. **Model Training**: Use machine learning algorithms to train a predictive maintenance model.
 5. **Evaluation**: Assess the model's performance using appropriate metrics.
 6. **Machine Learning Models and Results**:
-<<<<<<< HEAD
-   - Model 1: []
-     - Accuracy: [Accuracy]
-     - Precision: [Precision]
-     - Recall: [Recall]
-     - F1 Score: [F1 Score]
-   - Model 2: [Model Name 2]
-     - ...
-=======
    - Model 1: [Random Forest model ]
      - Accuracy: [97.77]
    - Model 2: [Randon Forest model w/ XGBoost]
      - Accuracy: [94.72]
->>>>>>> refs/remotes/origin/master
 
 7. **Citation**: original publication: S. Matzka, "Explainable Artificial Intelligence for Predictive Maintenance Applications," 2020 Third International Conference on Artificial Intelligence for Industries (AI4I), doi: 10.1109/AI4I49448.2020.00023.
 
+## Credits
+
+- **Dataset**: Original dataset with additional information and proper attribution. At least one unauthorized version on Kaggle; please attribute the original author.
+- **Image**: Milling process image by Daniel Smyth @ Pexels [Link](https://www.pexels.com/de-de/foto/industrie-herstellung-maschine-werkzeug-10406128/)
 
